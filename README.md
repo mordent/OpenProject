@@ -1,5 +1,5 @@
 mordent
 =======
 
-Publicly available project
+Open Project
 
