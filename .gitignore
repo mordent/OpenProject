@@ -1,0 +1,7 @@
+target/
+.settings/
+[Bb]in/
+[Oo]bj/
+.classpath
+.project
+.vs
