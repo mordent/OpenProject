@@ -187,7 +187,6 @@
             this.textBoxSourceConnectionString.Size = new Size(353, 74);
             this.textBoxSourceConnectionString.TabIndex = 10;
             this.textBoxSourceConnectionString.Tag = "Source";
-            this.textBoxSourceConnectionString.Text = resources.GetString("textBoxSourceConnectionString.Text");
             // 
             // labelSourceDBType
             // 
@@ -321,7 +320,6 @@
             this.textBoxTargetConnectionString.Size = new Size(353, 74);
             this.textBoxTargetConnectionString.TabIndex = 20;
             this.textBoxTargetConnectionString.Tag = "Target";
-            this.textBoxTargetConnectionString.Text = "Server=open.thirautech.com;Port=35432;Database=postgres;User Id=ky_mes;Password=solution2023!;";
             // 
             // labelTargetDBType
             // 
