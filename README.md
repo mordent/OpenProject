@@ -1,4 +1,5 @@
 mordent
 =======
 
-Public Test
+Publicly available project
+
