@@ -1,6 +1,7 @@
 mordent
 ===================
 이 프로젝트의 지향점[제조 분야 AI Agent 아키텍처](https://docs.google.com/presentation/d/1zdTzFq5Q-2HMGL7kkfvhlCPNk8A6oCoa/edit?usp=sharing&ouid=113316913013781801228&rtpof=true&sd=true)
+이 프로젝트의 지향점[제조 분야 AI Agent 아키텍처](./제조 분야 AI Agent 아키텍처.pptx)
 ===================
 Open Project Repositories
 
