@@ -1,5 +1,7 @@
 mordent
 ===================
+이 프로젝트의 지향점[제조 분야 AI Agent 아키텍처](./제조 분야 AI Agent 아키텍처.pptx )
+===================
 Open Project Repositories
 
 DataTransfer
