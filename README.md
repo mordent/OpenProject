@@ -1,6 +1,7 @@
 mordent
 ===================
 [제조 분야 AI Agent 아키텍처](https://docs.google.com/presentation/d/1gPkkOntjUZ3y0dGucj1UthUNFez3-qyt/edit?usp=sharing&ouid=113316913013781801228&rtpof=true&sd=true)
+[포트폴리오](https://drive.google.com/file/d/1QDpjCMHb7Ma-EoD2JhWhsoQQkQsuE140/view?usp=sharing)
 ===================
 Open Project Repositories
 
