@@ -1,7 +1,7 @@
 mordent
 ===================
-[제조 분야 AI Agent 아키텍처](https://docs.google.com/presentation/d/1gPkkOntjUZ3y0dGucj1UthUNFez3-qyt/edit?usp=sharing&ouid=113316913013781801228&rtpof=true&sd=true)
-[포트폴리오](https://drive.google.com/file/d/1QDpjCMHb7Ma-EoD2JhWhsoQQkQsuE140/view?usp=sharing)
+[Java AI AX 프레임워크](https://drive.google.com/file/d/1aQdZqT9TI7ptM61nfJojJekqVECpGCLh/view?usp=sharing)
+[포트폴리오](https://drive.google.com/file/d/12spqpJskM88xU6Z4r9dMTfLLlkexllzx/view?usp=sharing)
 ===================
 Open Project Repositories
 
@@ -15,8 +15,7 @@ Non-stop operation,<br/>
 Rapid development,<br/>
 AI Transformation Easy (AX Easy)<br/>
 
-API(AOP와 환경 구현 기본 설정 세팅만 공개됨)<br/>
-실제 기능 구현과 개별 모듈 플러그인은 AOP로 사용되며 분리되어 설계<br/>
+API(핵심 기능의 Facade 계층만 공개)<br/>
+실제 기능 구현 AOP로 사용되며 분리되어 설계<br/>
 추상화 기능에 대한 완벽한 작업 제어를 목표로 만들어짐.<br/>
-비즈니스 로직과 AI Agent의 구현부를 서버 운영중에 안전하게 동적 제어 하는 것이 목표.<br/>
-
+비즈니스 로직과 런타임 속성을 서버 운영중에 안전하게 동적 제어 하는 것이 목표.<br/>
